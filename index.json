@@ -1,0 +1,29 @@
+{
+  "packs": [
+    {
+      "id": "ua_071_2016",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/Elbinpalex/kpsc-pyq-data/main/papers/ua_071_2016_solved.json"
+    },
+    {
+      "id": "ua_024_2019",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/Elbinpalex/kpsc-pyq-data/main/papers/ua_024_2019.json"
+    },
+    {
+      "id": "ua_prelims_031_2023",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/Elbinpalex/kpsc-pyq-data/main/papers/ua_prelims_031_2023.json"
+    },
+    {
+      "id": "ua_91_2026",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/Elbinpalex/kpsc-pyq-data/main/papers/ua_91_2026_q1_26.json"
+    },
+    {
+      "id": "deg_prelims_048_2026",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/Elbinpalex/kpsc-pyq-data/main/papers/deg_prelims_048_2026.json"
+    }
+  ]
+}
